@@ -1,0 +1,11 @@
+.detail-container{
+    margin: 20px;
+    border: 1px solid lightblue;
+    display: flex;
+    width: 700px;
+}
+.detail-container img{
+    width: 300px;
+    border-radius: 5px;
+    margin: 10px;
+}
